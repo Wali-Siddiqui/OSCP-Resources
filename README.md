@@ -1,2 +1,16 @@
-# OSCP-Resources
-Tools and Techniques for OSCP
+# OSCP Resources
+
+Scanning:
+
+
+Enumeration:
+
+
+
+Foothold:
+
+
+
+Privilage Escalation:
+
+
