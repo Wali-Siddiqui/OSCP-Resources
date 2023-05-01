@@ -1,3 +1,4 @@
+path_source='/usr/share/doc/python3-impacket/examples/'
 alias psexec="python $path_source/psexec.py"
 alias wmiexec="python $path_source/wmiexec.py"
 alias smbexec="python $path_source/smbexec.py"
